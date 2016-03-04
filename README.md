@@ -14,7 +14,9 @@ Also there is of course ES6 transpilation.
 4. If you want to run linting: `npm test` or `npm run lint`. Fix bugs: `npm run lint-fix`. You can adjust your `.eslintrc` config file.
 5. If you want to run transpilation to ES5 in `dist` folder: `npm run prepublish` (standard npm hook).
 
-More information in a blog post soon.
+## Blog post about it:
+
+- [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015/)
 
 ## Also check out
 
