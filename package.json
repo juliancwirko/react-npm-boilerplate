@@ -1,17 +1,17 @@
 {
-    "name": "react-npm-boilerplate",
-    "version": "1.0.1",
-    "description": "Boilerplate for creating React Npm packages with ES2015",
+    "name": "react-replicate",
+    "version": "0.1.0",
+    "description": "Create popovers, modals, snackbars easily by replicating content of an emitter component in a receiver component",
     "repository": {
         "type": "git",
-        "url": "https://github.com/juliancwirko/react-npm-boilerplate.git"
+        "url": "https://github.com/aymericbouzy/react-replicate.git"
     },
-    "author": "Julian Ćwirko",
+    "author": "Aymeric Bouzy",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/juliancwirko/react-npm-boilerplate/issues"
+        "url": "https://github.com/aymericbouzy/react-replicate/issues"
     },
-    "homepage": "https://github.com/juliancwirko/react-npm-boilerplate",
+    "homepage": "https://github.com/aymericbouzy/react-replicate",
     "keywords": [
         "react-component",
         "react"
